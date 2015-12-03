@@ -8,9 +8,6 @@ constraints:
 * The layout should be done with floats.
 * The markup should use `semantic` HTML5
 * The code should use proper indentation
-
-## Note:
-
-Be prepared to review and defend your work on Monday. We plan to assess each site individually and expect you to describe your code, defend your decisions, and articulate why you choose to do things a certain way.
+* The finished site should be an exact match to the image including font type, font size, colors, all layout, etc...
 
 ![](img/layout.png)
