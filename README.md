@@ -8,6 +8,7 @@ constraints:
 * The layout should be done with floats.
 * The markup should use `semantic` HTML5
 * The code should use proper indentation
+* Grab your placeholder images from https://placehold.it/
 * The finished site should be an exact match to the image including font type, font size, colors, all layout, etc...
 
 ![](img/layout.png)
